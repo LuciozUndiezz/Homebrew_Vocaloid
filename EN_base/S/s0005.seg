@@ -1,0 +1,8 @@
+REVISED!
+nPhonemes 3
+articulationsAreStationaries = 1
+phoneme		BeginTime		EndTime
+===================================================
+unknown		0.000000		1.201633
+Q		1.201633		1.637007
+unknown		1.637007		1.996916

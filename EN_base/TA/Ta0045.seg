@@ -1,0 +1,12 @@
+REVISED!
+nPhonemes 7
+articulationsAreStationaries = 0
+phoneme		BeginTime		EndTime
+===================================================
+Sil		0.000000		0.284444
+Sil		0.284444		0.998458
+@U		0.998458		1.468662
+kh		1.468662		1.503492
+eI		1.503492		1.991111
+Sil		1.991111		1.996916
+Sil		1.996916		2.002721
