@@ -1,0 +1,9 @@
+nphone art segmentation
+{
+	phns: ["Z", "I@"];
+	cut offset: 69376;
+	cut length: 43264;
+	boundaries: [0.359909297, 0.412154195, 0.574693878];
+	revised: false;
+	voiced: [true, true];
+};
