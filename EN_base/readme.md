@@ -10,6 +10,6 @@ Some TA files are at a "failed" status, you may edit to see why they're wrong
 
 0% of A (Articulations)
 
-A0001 -> A0057 is done
+A0001 -> A0125 is done
 
 CV: You can probs figure it out ;)
