@@ -1,0 +1,9 @@
+nphone art segmentation
+{
+	phns: ["Sil", "l"];
+	cut offset: 0;
+	cut length: 69632;
+	boundaries: [0.957823129, 0.969433107, 1.126167800];
+	revised: false;
+	voiced: [false, true];
+};

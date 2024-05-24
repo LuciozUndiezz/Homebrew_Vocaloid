@@ -1,0 +1,9 @@
+nphone art segmentation
+{
+	phns: ["u:", "m"];
+	cut offset: 104192;
+	cut length: 49664;
+	boundaries: [0.464399093, 0.760453515, 0.795283447];
+	revised: false;
+	voiced: [true, true];
+};
